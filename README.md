@@ -37,3 +37,9 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 |9|*5/15*|**Lecture 16 & 발표**|
 |10|*5/22*|**CNN 관련 논문 리딩**|
 |11|*5/29*|**CNN 관련 논문 리딩**|
+
+<br>
+<br>
+<h2> 스터디 진행 </h2>
+<br>
+-3/6: 스터디 진행 계획 설명, Lecture 1 리뷰 진행, 프로젝트 진행 논의
