@@ -43,3 +43,4 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 <h2> 스터디 진행 </h2>
 <br>
 -3/6: 스터디 진행 계획 설명, Lecture 1 리뷰 진행, 프로젝트 진행 논의
+<br> -3/13: Nearest Neighbor(최근접 이웃), KNN(k-최근접 이웃), 하이퍼파라미터, 선형분류, 손실함수(SVM, SoftMax), Optimization, Image Features 이론 학습.
