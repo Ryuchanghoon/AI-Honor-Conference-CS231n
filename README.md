@@ -46,4 +46,4 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 <br>
 <br> -3/13: Nearest Neighbor(최근접 이웃), KNN(k-최근접 이웃), 하이퍼파라미터, 선형분류, 손실함수(SVM, SoftMax), Optimization, Image Features 이론 학습.
 <br>
-<br> -3/20: Backpropagation(역전파), Neural Network(신경망), 신경망 역사, ConvNet 구조, spartial dimension(공간 차원)
+<br> -3/20: Back propagation(역전파), Neural Network(신경망), 신경망 역사, ConvNet 구조, spartial dimension(공간 차원)
