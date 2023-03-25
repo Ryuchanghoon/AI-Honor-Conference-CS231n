@@ -29,7 +29,7 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 |1|*3/6*|**Lecture 1**|
 |2|*3/13*|**Lecture 2, Lecture 3**|
 |3|*3/20*|**Lecture 4, Lecture 5**|
-|4|*3/27*|**Lecture 6, Lecture 7**|
+|4|*3/29*|**Lecture 6, Lecture 7**|
 |5|*4/3*|**Lecture 8, Lecture 9**|
 |6|*4/10*|**Lecture 10, Lecture 11**|
 |7|*5/1*|**Lecture 12, Lecture 13**|
