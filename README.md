@@ -31,12 +31,11 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 |3|*3/20*|**Lecture 4, Lecture 5**|
 |4|*3/29*|**Lecture 6, Lecture 7**|
 |5|*4/3*|**Lecture 8, Lecture 9**|
-|6|*4/10*|**Lecture 10, Lecture 11**|
-|7|*5/1*|**Lecture 10, Lecture 11**|
-|8|*5/8*|**Lecture 12, Lecture 13**|
-|9|*5/15*|**Lecture 14, Lecture 15**|
-|10|*5/22*|**Lecture 16 & 발표**|
-|11|*5/29*|**얼굴 탐지 실습 마무리**|
+|6|*5/1*|**Lecture 10, Lecture 11**|
+|7|*5/8*|**Lecture 12, Lecture 13**|
+|8|*5/15*|**Lecture 14, Lecture 15**|
+|9|*5/22*|**Lecture 16 & 발표**|
+|10|*5/29*|**얼굴 탐지 실습 마무리**|
 
 <br>
 <br>
