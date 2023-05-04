@@ -50,3 +50,6 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 <br> -3/29: 활성화 함수(Sigmoid, ReLU, Leaky ReLU, PReLU, ELU, Maxout), 데이터 전처리(AlexNet, VGGNet), 가중치, 학습률 조정, BabySitting the Learning Process, 최적화(SGD, SGD Momentum, Nesterov, AdaGrad, Adam, 뉴런스텝, 모델 앙상블), 정규화(드롭아웃, 역 드롭아웃, 배치 정규화), Transfor Learning 이론 학습 및 OpenCV 활용 성별, 나이 인식 코드 실습.
 <br>
 <br> -4/3: 딥러닝 프레임워크 역사(Caffe/ Caffe2, Theano/ TensorFlow, Torch/ Pytorch)와 각각의 형태, 장단점, CNN연구(LeNet-5, ZFNet, VGGNet, GoogLeNet, ResNet, NiN, DenseNet, SqueezeNet)의 방식.
+<br>
+<br> - 5/1: 계산 그래프 활용한 RNN이론 실습. CNN과 RNN의 연관성. Vanilla RNN, LSTM, GRU 각각의 구성. 이미지 분리(Segmentation), 위치찾기(Localization), 탐지(Detection) 방식 학습.
+
