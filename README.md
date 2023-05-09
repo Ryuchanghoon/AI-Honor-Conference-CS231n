@@ -52,4 +52,5 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 <br> -4/3: 딥러닝 프레임워크 역사(Caffe/ Caffe2, Theano/ TensorFlow, Torch/ Pytorch)와 각각의 형태, 장단점, CNN연구(LeNet-5, ZFNet, VGGNet, GoogLeNet, ResNet, NiN, DenseNet, SqueezeNet)의 방식.
 <br>
 <br> - 5/1: 계산 그래프 활용한 RNN이론 실습. CNN과 RNN의 연관성. Vanilla RNN, LSTM, GRU 각각의 구성. 이미지 분리(Segmentation), 위치찾기(Localization), 탐지(Detection) 방식 학습.
-
+<br>
+<br> -5/8: CNN계층 내부에서 어떤 계산이 일어나는지에 대한 학습, 그간의 연구 방식. Unsupervised Learning(비지도 학습)의 형태, 연구 살펴보기.
