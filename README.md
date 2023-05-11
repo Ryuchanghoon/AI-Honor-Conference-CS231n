@@ -54,3 +54,5 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 <br> - 5/1: 계산 그래프 활용한 RNN이론 실습. CNN과 RNN의 연관성. Vanilla RNN, LSTM, GRU 각각의 구성. 이미지 분리(Segmentation), 위치찾기(Localization), 탐지(Detection) 방식 학습.
 <br>
 <br> -5/8: CNN계층 내부에서 어떤 계산이 일어나는지에 대한 학습, 그간의 연구 방식. Unsupervised Learning(비지도 학습)의 형태, 연구 살펴보기.
+<br>
+<br> -5/10: 강화학습(Reinforcement Learning)의 개념, MDP(Markov Decision Process) 수식, 기댓값 수식화(Value function, Q-Value function), Q-learning, Policy Gradients(Q-learning보다 진보된 방식, 기울기를 구한 최적의 정책 찾기 가능), 분산값 줄이는 방식, Actor-Critic 알고리즘 구조.
