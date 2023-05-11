@@ -33,9 +33,9 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 |5|*4/3*|**Lecture 8, Lecture 9**|
 |6|*5/1*|**Lecture 10, Lecture 11**|
 |7|*5/8*|**Lecture 12, Lecture 13**|
-|8|*5/15*|**Lecture 14, Lecture 15**|
-|9|*5/22*|**Lecture 16 & 발표**|
-|10|*5/29*|**얼굴 탐지 실습 마무리**|
+|8|*5/10*|**Lecture 14**|
+|9|*5/15 ~ 끝날 때 까지<br>(최대한 빠르게)*|**Kaggle 독버섯 분류 코드 분석**|
+|10|*~6/14*|**CNN관련 논문 리딩<br>CS231n 개인 블로그 업로드 마무리**|
 
 <br>
 <br>
