@@ -18,6 +18,8 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 <br> - 개별적 강의 정리
 <br> - 공부 리뷰  
 <br> - OpenCV활용 얼굴탐지 실습
+<br> - CNN논문 리딩
+<br> - Kaggle 독버섯 분류 코드 분석
 <br>
 <br>
 
