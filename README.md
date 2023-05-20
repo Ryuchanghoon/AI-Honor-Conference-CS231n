@@ -60,3 +60,5 @@ SungKongHoe Univ.  AI Honor Conference 1st CS231n study
 <br> -5/10: 강화학습(Reinforcement Learning)의 개념, MDP(Markov Decision Process) 수식, 기댓값 수식화(Value function, Q-Value function), Q-learning, Policy Gradients(Q-learning보다 진보된 방식, 기울기를 구한 최적의 정책 찾기 가능), 분산값 줄이는 방식, Actor-Critic 알고리즘 구조.
 <br>
 <br> -5/15: 캐글 독버섯 데이터 DecisionTreeClassifier, RandomForestClassifier, XGBClassifier, ExtraTreeClassifier, VotingClassifier로 정확도 비교. 
+<br>
+<br> -5/17: 캐글 독버섯 데이터 전처리, 분류 후 여러 시각화 적용.
